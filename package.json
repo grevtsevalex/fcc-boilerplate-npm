@@ -11,9 +11,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-<<<<<<< HEAD
 	"author":"Grevcev AS"
-=======
-	"author":"grevcev.as"
->>>>>>> 292265742dee8391a2664a78688a6ed7542c927f
 }
